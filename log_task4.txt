@@ -1,0 +1,4 @@
+февр. 03, 2023 11:25:44 AM org.example.task3 task
+INFO: Все в норме
+февр. 03, 2023 11:25:44 AM org.example.task3 task
+INFO: Все в норме
